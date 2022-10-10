@@ -1,0 +1,15 @@
+C:\Users\Fatih\Desktop\evet\rehber\bin\Debug\net6.0\rehber.exe
+C:\Users\Fatih\Desktop\evet\rehber\bin\Debug\net6.0\rehber.deps.json
+C:\Users\Fatih\Desktop\evet\rehber\bin\Debug\net6.0\rehber.runtimeconfig.json
+C:\Users\Fatih\Desktop\evet\rehber\bin\Debug\net6.0\rehber.dll
+C:\Users\Fatih\Desktop\evet\rehber\bin\Debug\net6.0\rehber.pdb
+C:\Users\Fatih\Desktop\evet\rehber\obj\Debug\net6.0\rehber.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\evet\rehber\obj\Debug\net6.0\rehber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\evet\rehber\obj\Debug\net6.0\rehber.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\evet\rehber\obj\Debug\net6.0\rehber.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\evet\rehber\obj\Debug\net6.0\rehber.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\evet\rehber\obj\Debug\net6.0\rehber.dll
+C:\Users\Fatih\Desktop\evet\rehber\obj\Debug\net6.0\refint\rehber.dll
+C:\Users\Fatih\Desktop\evet\rehber\obj\Debug\net6.0\rehber.pdb
+C:\Users\Fatih\Desktop\evet\rehber\obj\Debug\net6.0\rehber.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\evet\rehber\obj\Debug\net6.0\ref\rehber.dll
