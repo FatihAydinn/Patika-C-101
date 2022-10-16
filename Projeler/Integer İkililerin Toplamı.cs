@@ -10,9 +10,9 @@ namespace csharp
         basla:
         Console.Write("Sayı miktarını belirleyiniz : ");
         int n = Convert.ToInt32(Console.ReadLine());
-        if (n % 2 == 1)
+        if (n % 2 == 1 || n <= 0)
         {
-            Console.WriteLine("Girilen değer tek olamaz");
+            Console.WriteLine("Girilen değer tek , 0 veya negatif olamaz");
             goto basla;
         }
         int[] sayi = new int[n];
