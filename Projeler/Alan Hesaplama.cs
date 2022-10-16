@@ -132,7 +132,7 @@ namespace csharp
             goto basla;
         }
         }
-        Console.ReadKey();
+        //Console.ReadKey();
         }
     }
 }
